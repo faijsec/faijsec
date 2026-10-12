@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**faijsec/faijsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Faijul Islam Saimon
 
-Here are some ideas to get you started:
+**Cybersecurity Specialist · WordPress Security · Penetration Tester · Python Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://www.faijsec.com) · [LinkedIn](https://linkedin.com/in/faijsec) · [X](https://x.com/faijsec) · [Facebook](https://facebook.com/faijsec)
+
+</div>
+
+---
+
+### About
+
+I'm a cybersecurity specialist. Most of my client work is WordPress security, and I also do penetration testing and write Python. I like learning, and I spend a lot of my time studying new techniques in security.
+
+### WordPress security
+
+I help site owners who have been hacked or want to move safely:
+
+- Malware removal
+- Malware cleanup for infected websites
+- Website migration
+
+I offer these services on Fiverr.
+
+### Focus
+
+Penetration testing · Vulnerability assessment · Security research · Python
+
+### Contact
+
+The best way to reach me is on [LinkedIn](https://linkedin.com/in/faijsec) or through my [website](https://www.faijsec.com). For WordPress work, you can also find me on Fiverr.
