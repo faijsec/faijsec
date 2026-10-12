@@ -38,14 +38,11 @@ I help site owners who have been hacked or need to move their site safely.
 
 ### Focus
 
-<img src="https://img.shields.io/badge/Penetration_Testing-14213d?style=for-the-badge" alt="Penetration Testing">
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-14213d?style=for-the-badge" alt="Vulnerability Assessment">
-<img src="https://img.shields.io/badge/Security_Research-14213d?style=for-the-badge" alt="Security Research">
+<img src="https://img.shields.io/badge/Penetration_Testing-14213d?style=for-the-badge" alt="Penetration Testing"> <img src="https://img.shields.io/badge/Vulnerability_Assessment-14213d?style=for-the-badge" alt="Vulnerability Assessment"> <img src="https://img.shields.io/badge/Security_Research-14213d?style=for-the-badge" alt="Security Research">
 
 ### Tools
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 
 <br>
 
